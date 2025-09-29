@@ -1,0 +1,71 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "readMore": "Read more",
+    "backToHome": "Back to home",
+    "search": "Search",
+    "searchPlaceholder": "Search articles...",
+    "noResults": "No results found",
+    "categories": "Categories",
+    "allCategories": "All Categories",
+    "relatedArticles": "Related Articles",
+    "publishedOn": "Published on",
+    "by": "By",
+    "minutes": "minutes",
+    "readTime": "read"
+  },
+  "navigation": {
+    "home": "Home",
+    "search": "Search",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "categories": {
+    "technology": "Technology",
+    "business": "Business",
+    "sports": "Sports",
+    "entertainment": "Entertainment",
+    "health": "Health",
+    "science": "Science"
+  },
+  "home": {
+    "title": "Latest News",
+    "subtitle": "Stay informed with breaking news and in-depth analysis",
+    "maintitle": "Stay Informed with",
+    "featuredStories": "Featured Stories",
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "page": "Page"
+    }
+  },
+  "article": {
+    "shareArticle": "Share Article",
+    "tags": "Tags",
+    "author": "Author",
+    "publishDate": "Publish Date",
+    "lastUpdated": "Last Updated"
+  },
+  "search": {
+    "title": "Search Results",
+    "resultsFor": "Results for",
+    "noResultsTitle": "No articles found",
+    "noResultsDescription": "Try adjusting your search terms or browse our categories",
+    "searchSuggestions": "Search Suggestions",
+    "trySearching": "Try searching for:"
+  },
+  "errors": {
+    "404": {
+      "title": "Page Not Found",
+      "description": "The page you're looking for doesn't exist.",
+      "backHome": "Go back home"
+    },
+    "500": {
+      "title": "Server Error",
+      "description": "Something went wrong on our end.",
+      "retry": "Try again"
+    }
+  }
+}

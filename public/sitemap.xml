@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   Homepage 
+  <url>
+    <loc>https://news-portal.vercel.app/en</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://news-portal.vercel.app/ar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://news-portal.vercel.app/en"/>
+  </url>
+  
+  <url>
+    <loc>https://news-portal.vercel.app/ar</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://news-portal.vercel.app/ar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://news-portal.vercel.app/en"/>
+  </url>
+
+   English Articles 
+  <url>
+    <loc>https://news-portal.vercel.app/en/article/ai-revolution-transforming-industries</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://news-portal.vercel.app/ar/article/ai-revolution-transforming-industries"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://news-portal.vercel.app/en/article/ai-revolution-transforming-industries"/>
+  </url>
+
+  <url>
+    <loc>https://news-portal.vercel.app/en/article/sustainable-energy-breakthrough</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://news-portal.vercel.app/ar/article/sustainable-energy-breakthrough"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://news-portal.vercel.app/en/article/sustainable-energy-breakthrough"/>
+  </url>
+
+  <url>
+    <loc>https://news-portal.vercel.app/en/article/global-climate-summit-2025</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://news-portal.vercel.app/ar/article/global-climate-summit-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://news-portal.vercel.app/en/article/global-climate-summit-2025"/>
+  </url>
+
+   Arabic Articles 
+  <url>
+    <loc>https://news-portal.vercel.app/ar/article/ai-revolution-transforming-industries</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://news-portal.vercel.app/ar/article/ai-revolution-transforming-industries"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://news-portal.vercel.app/en/article/ai-revolution-transforming-industries"/>
+  </url>
+
+  <url>
+    <loc>https://news-portal.vercel.app/ar/article/sustainable-energy-breakthrough</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://news-portal.vercel.app/ar/article/sustainable-energy-breakthrough"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://news-portal.vercel.app/en/article/sustainable-energy-breakthrough"/>
+  </url>
+
+  <url>
+    <loc>https://news-portal.vercel.app/ar/article/global-climate-summit-2025</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://news-portal.vercel.app/ar/article/global-climate-summit-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://news-portal.vercel.app/en/article/global-climate-summit-2025"/>
+  </url>
+</urlset>

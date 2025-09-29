@@ -1,0 +1,71 @@
+{
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "retry": "حاول مرة أخرى",
+    "readMore": "اقرأ المزيد",
+    "backToHome": "العودة للرئيسية",
+    "search": "بحث",
+    "searchPlaceholder": "البحث في المقالات...",
+    "noResults": "لم يتم العثور على نتائج",
+    "categories": "الفئات",
+    "allCategories": "جميع الفئات",
+    "relatedArticles": "مقالات ذات صلة",
+    "publishedOn": "نُشر في",
+    "by": "بواسطة",
+    "minutes": "دقائق",
+    "readTime": "قراءة"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "search": "البحث",
+    "about": "حول",
+    "contact": "اتصل بنا"
+  },
+  "categories": {
+    "technology": "التكنولوجيا",
+    "business": "الأعمال",
+    "sports": "الرياضة",
+    "entertainment": "الترفيه",
+    "health": "الصحة",
+    "science": "العلوم"
+  },
+  "home": {
+    "title": "آخر الأخبار",
+    "subtitle": "ابق على اطلاع بالأخبار العاجلة والتحليلات المعمقة",
+    "maintitle": "ابق على اطلاع مع",
+    "featuredStories": "القصص المميزة",
+    "pagination": {
+      "previous": "السابق",
+      "next": "التالي",
+      "page": "صفحة"
+    }
+  },
+  "article": {
+    "shareArticle": "شارك المقال",
+    "tags": "العلامات",
+    "author": "الكاتب",
+    "publishDate": "تاريخ النشر",
+    "lastUpdated": "آخر تحديث"
+  },
+  "search": {
+    "title": "نتائج البحث",
+    "resultsFor": "نتائج لـ",
+    "noResultsTitle": "لم يتم العثور على مقالات",
+    "noResultsDescription": "حاول تعديل مصطلحات البحث أو تصفح فئاتنا",
+    "searchSuggestions": "اقتراحات البحث",
+    "trySearching": "جرب البحث عن:"
+  },
+  "errors": {
+    "404": {
+      "title": "الصفحة غير موجودة",
+      "description": "الصفحة التي تبحث عنها غير موجودة.",
+      "backHome": "العودة للرئيسية"
+    },
+    "500": {
+      "title": "خطأ في الخادم",
+      "description": "حدث خطأ من جانبنا.",
+      "retry": "حاول مرة أخرى"
+    }
+  }
+}
